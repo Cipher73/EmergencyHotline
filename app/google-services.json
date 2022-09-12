@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250143927266",
+    "project_id": "emergencyhotline-f881f",
+    "storage_bucket": "emergencyhotline-f881f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250143927266:android:f9557c6b840806e3b627bb",
+        "android_client_info": {
+          "package_name": "com.example.emergencyhotline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250143927266-5bv0v9613058c78gnmvj16k2u92l0a5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwfO1HNNwwDIVtFq-ABd2Te8MsUJWXljw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250143927266-5bv0v9613058c78gnmvj16k2u92l0a5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

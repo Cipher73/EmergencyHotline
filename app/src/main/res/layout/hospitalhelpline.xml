@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+
+    android:orientation="vertical"
+
+    android:weightSum="7"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingBottom="30dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        >
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/pic2"
+            ></ImageView>
+
+        <EditText
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="40dp"
+
+            android:textSize="25dp"
+            android:text="HOSPITAL HELPLINE"
+
+            android:textColor="#B65028"
+            android:inputType="textEmailAddress"
+            android:paddingLeft="20dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:paddingLeft="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/pic4"
+            ></ImageView>
+        <TextView
+            android:id="@+id/emergency"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="30dp"
+            android:background="#90FFD494"
+            android:textAlignment="center"
+            android:textColor="#B65028"
+            android:text="Emergency"
+            android:inputType="text"
+            android:paddingLeft="20dp"
+            android:textSize="20dp"
+            app:cornerRadius="20dp"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingBottom="10dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp">
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/pic6"
+            ></ImageView>
+
+        <TextView
+            android:id="@+id/medication"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="30dp"
+            android:background="#90FFD494"
+            android:textAlignment="center"
+            android:textColor="#B65028"
+            android:text="Medication"
+            android:inputType="text"
+            android:paddingLeft="20dp"
+            android:textSize="20dp"
+            app:cornerRadius="20dp"
+             />
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp">
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/pic5"
+            ></ImageView>
+        <TextView
+            android:id="@+id/consultation"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="30dp"
+            android:background="#90FFD494"
+            android:textAlignment="center"
+            android:textColor="#B65028"
+            android:text="Consultation"
+            android:inputType="text"
+            android:paddingLeft="20dp"
+            android:textSize="20dp"
+            app:cornerRadius="20dp"
+            />
+    </LinearLayout>
+
+
+</LinearLayout>

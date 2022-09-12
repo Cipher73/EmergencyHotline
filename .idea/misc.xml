@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/activity_admin_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/activity_admin_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/activity_admin_sign.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/activity_data_base_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/activity_fire_brigade.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/activity_form_data.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/activity_hospital_hotline.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/activity_hospital_hotline2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/activity_location_helper.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/activity_police_locations.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/activity_reset_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/firebrigade.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/firebrigade_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/form.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/formview.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/hospitalhelpline.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/hospitalhelpline2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/hotline.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/listview.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/police_locations_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/policehelpline.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/signup.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/2345106/AndroidStudioProjects/AndroidStudioProjects/Emergencyhotline/app/src/main/res/layout/userview.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/layout/activity_admin_home.xml" value="0.12" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
